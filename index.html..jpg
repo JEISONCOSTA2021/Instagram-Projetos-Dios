@@ -20,7 +20,7 @@
                 <div class="group">
                     <img src="img\logo-instagram.png" class="logo-instagram" alt="Logotipo do Instagram">
                     <div class="profile-photo">
-                        <img src="img/index.html.jpg" alt="index.html.jpg">
+                        <img src="img/Index.html.jpg" alt="Index.html.jpg">
                     </div>
                     <a href="#" class="instagram-login">Continue como Jeison Costa</a>
                     <a href="#" class="instagram-logout">Remover conta</a>
